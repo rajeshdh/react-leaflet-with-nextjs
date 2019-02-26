@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "name": "react-leaflet-nextjs",
+  "builds": [
+    { "src": "next.config.js", "use": "@now/next" }
+  ]
+}
